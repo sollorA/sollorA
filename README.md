@@ -35,7 +35,3 @@
 ![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=sollorA&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollorA)](https://github.com/MrKrishnaAgarwal/readme-components-github)
-
-## Activity schedule
-
-
