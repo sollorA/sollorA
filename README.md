@@ -3,7 +3,7 @@
 ## About me
 - 🖥 FullStack Web Developer
 - 📚 Learning Php 8.0
-- 📫 Contact with me: [Email](mailto:egorich435@gmail.com)
+- 📫 Contact with me: [Email](mailto:egorich435@gmail.com) and [Telegram](https://t.me/EASolor)
 
 ## My skills
 ### Languages
@@ -33,5 +33,7 @@
 
 ## GitHub Statistics
 ![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=sollorA&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sollorA) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollorA)](https://github.com/MrKrishnaAgarwal/readme-components-github)
