@@ -2,7 +2,7 @@
 
 ## About me
 - 🖥 FullStack Web Developer
-- 📚 Learning Php 8.0
+- 📚 Learning Php 8.0, mySQL
 - 📫 Contact with me: [Email](mailto:egorich435@gmail.com) and [Telegram](https://t.me/EASolor)
 
 ## My skills
